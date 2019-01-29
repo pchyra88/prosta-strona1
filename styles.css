@@ -13,31 +13,44 @@
 body {background-color: white}
 
 div  {
-    display: inline;
     width: 100px;
     height: 100px;
     background-color: black
 }
 div  {
-    display: inline-block;
     width: 100px;
     height: 100px;
     background-color: black
 }
 div  {
-    display: inline-block;
     width: 100px;
     height: 100px;
     background-color: black
 }
 div  {
-    display: inline-block;
     width: 100px;
     height: 100px;
     background-color: black
 }
 
-
+div {
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 10px solid blue;    
+}
+div {
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 10px solid blue;    
+}
+div {
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 10px solid blue;     
+}
 
 
 
