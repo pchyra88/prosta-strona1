@@ -11,51 +11,52 @@
     color: green
 }
 body {background-color: white}
-
-div  {
-    width: 100px;
-    height: 100px;
-    background-color: black
-}
-div  {
-    width: 100px;
-    height: 100px;
-    background-color: black
-}
-div  {
-    width: 100px;
-    height: 100px;
-    background-color: black
-}
-div  {
-    width: 100px;
-    height: 100px;
-    background-color: black
-}
-
 div {
     width: 100px;
     height: 100px;
+}
+
+#square1  {
+    background-color: black;
+    display:block inline
+}
+#square2 {
+    background-color: black;
+    display:block inline
+}
+#square3 {
+    background-color: black;
+    display: block inline
+}
+#square4 {
+    background-color: black;
+    display: block inline
+}
+#sguare5 {
     padding: 5px;
-    border: 10px solid blue;    
+    border: 10px solid blue;  
+    display: block;  
 }
-div {
-    width: 100px;
-    height: 100px;
+#square6 {
     padding: 5px;
-    border: 10px solid blue;    
+    border: 10px solid blue;  
+    display: block; 
 }
-div {
-    width: 100px;
-    height: 100px;
+#square7 {
     padding: 5px;
-    border: 10px solid blue;     
+    border: 10px solid blue;  
+    display: block ;  
+}
+#contact {
+    display: block;
+    font-style: normal;
+}
+#przycisk {
+    display: block;
+    font-style: italic;
+    color: red;
+    padding: 3px;
+    border: 5px solid blue;
+    background-color: aqua;
 }
 
-
-
-
-
-
-
-}
