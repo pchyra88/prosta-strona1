@@ -15,37 +15,15 @@ div {
     width: 100px;
     height: 100px;
 }
-
-#square1  {
+#skils div {
     background-color: black;
-    display:block inline
+    display: inline-block  
 }
-#square2 {
-    background-color: black;
-    display:block inline
-}
-#square3 {
-    background-color: black;
-    display: block inline
-}
-#square4 {
-    background-color: black;
-    display: block inline
-}
-#sguare5 {
+#portfolio div {
     padding: 5px;
-    border: 10px solid blue;  
-    display: block;  
-}
-#square6 {
-    padding: 5px;
-    border: 10px solid blue;  
-    display: block; 
-}
-#square7 {
-    padding: 5px;
-    border: 10px solid blue;  
-    display: block ;  
+    border: 10px solid blue;
+    background-color: black;
+    display: block;
 }
 #contact {
     display: block;
